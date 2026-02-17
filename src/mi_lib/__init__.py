@@ -1,2 +1,1 @@
-from .ejemplo import saluda
-from .ejemplo import tablero
+from .ejemplo import saluda, tablero
