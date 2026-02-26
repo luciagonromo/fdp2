@@ -1,3 +1,4 @@
+
 def ahorcado(palabra):
     # Normalizamos la palabra a minúsculas y quitamos espacios
     palabra = palabra.strip().lower()
